@@ -334,8 +334,9 @@ dialog {
   line-height: 2;
 }
 
-@media {
+@media (max-width: 800px){
   dialog {
     height: 50%;
+  }
 }
 
